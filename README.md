@@ -15,3 +15,9 @@ Evaluación T2 de Lenguaje de Programación II (LP II). Estudiante: Carlos Andre
 ## Control de cambios
 
 En esta actividad se modificaron archivos del proyecto y se controlaron sus cambios entre el Working Directory, el Staging Area y el repositorio local.
+
+## Gestión de ramas
+
+Rama utilizada: feature-merino.
+
+Cambio realizado: se creó la clase ControlVersion_Merino.java, que muestra en consola un mensaje de identificación del estudiante y señala que fue desarrollada desde una rama independiente.
