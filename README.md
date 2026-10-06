@@ -11,3 +11,7 @@ Repositorio Git del proyecto Maven T2_Merino_Guimac, creado para la evaluación 
 ## Evidencia T2
 
 Evaluación T2 de Lenguaje de Programación II (LP II). Estudiante: Carlos Andres Merino Guimac.
+
+## Control de cambios
+
+En esta actividad se modificaron archivos del proyecto y se controlaron sus cambios entre el Working Directory, el Staging Area y el repositorio local.

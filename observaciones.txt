@@ -1,0 +1,1 @@
+Observaciones de la evaluacion T2: se practica el control de cambios con git diff, git add, git reset y git restore.
